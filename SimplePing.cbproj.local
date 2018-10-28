@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/10/28 14:16:26.287,=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/10/28 14:16:26.316,=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/28 14:18:52.179,C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\Unit1.h=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/10/28 14:18:52.179,C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\Unit1.dfm=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/10/28 14:18:52.179,C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\Unit1.cpp=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/28 14:18:54.443,C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\Project1PCH1.h=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/10/28 14:19:00.190,C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\SimplePingPCH1.h=C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\Project1PCH1.h</Transaction>
+    <Transaction>2018/10/28 14:19:00.218,C:\Users\splus\Documents\Embarcadero\Studio\Projects\SimplePingVCL\SimplePing.cbproj=C:\Users\splus\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
