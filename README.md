@@ -1,2 +1,2 @@
 # SimplePingVCL
-C++ Builder Example - Simple VCL ping utility 
+C++ Builder Example - Simple VCL Ping Utility 
